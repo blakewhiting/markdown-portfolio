@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Random typing
+2. Computers
+3. Country Music
+   1. Trucks
+   2. Beer
